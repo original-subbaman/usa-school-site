@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/usa-school-site/static/css/main.6b1d7c35.css",
-    "main.js": "/usa-school-site/static/js/main.b2f1c068.js",
-    "static/js/787.069f4e22.chunk.js": "/usa-school-site/static/js/787.069f4e22.chunk.js",
-    "static/media/img-3.png": "/usa-school-site/static/media/img-3.179b6bacd5fc6bb2b880.png",
-    "static/media/img2.png": "/usa-school-site/static/media/img2.3618746547917445f7da.png",
-    "static/media/splash1.png": "/usa-school-site/static/media/splash1.1cd297721162d57676d7.png",
-    "static/media/cbselogo.png": "/usa-school-site/static/media/cbselogo.179e8c083e8c93e29315.png",
-    "static/media/school.png": "/usa-school-site/static/media/school.6d0fdf4043ed0a063c5b.png",
-    "static/media/book.png": "/usa-school-site/static/media/book.85c7a172ed3f0c7b64d3.png",
-    "index.html": "/usa-school-site/index.html",
-    "main.6b1d7c35.css.map": "/usa-school-site/static/css/main.6b1d7c35.css.map",
-    "main.b2f1c068.js.map": "/usa-school-site/static/js/main.b2f1c068.js.map",
-    "787.069f4e22.chunk.js.map": "/usa-school-site/static/js/787.069f4e22.chunk.js.map"
+    "main.css": "/static/css/main.6b1d7c35.css",
+    "main.js": "/static/js/main.50f07fa1.js",
+    "static/js/787.069f4e22.chunk.js": "/static/js/787.069f4e22.chunk.js",
+    "static/media/img-3.png": "/static/media/img-3.179b6bacd5fc6bb2b880.png",
+    "static/media/img2.png": "/static/media/img2.3618746547917445f7da.png",
+    "static/media/splash1.png": "/static/media/splash1.1cd297721162d57676d7.png",
+    "static/media/cbselogo.png": "/static/media/cbselogo.179e8c083e8c93e29315.png",
+    "static/media/school.png": "/static/media/school.6d0fdf4043ed0a063c5b.png",
+    "static/media/book.png": "/static/media/book.85c7a172ed3f0c7b64d3.png",
+    "index.html": "/index.html",
+    "main.6b1d7c35.css.map": "/static/css/main.6b1d7c35.css.map",
+    "main.50f07fa1.js.map": "/static/js/main.50f07fa1.js.map",
+    "787.069f4e22.chunk.js.map": "/static/js/787.069f4e22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b1d7c35.css",
-    "static/js/main.b2f1c068.js"
+    "static/js/main.50f07fa1.js"
   ]
 }
