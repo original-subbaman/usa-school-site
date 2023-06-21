@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b1d7c35.css",
-    "main.js": "/static/js/main.50f07fa1.js",
+    "main.css": "/static/css/main.41f49421.css",
+    "main.js": "/static/js/main.e203f3c3.js",
     "static/js/787.069f4e22.chunk.js": "/static/js/787.069f4e22.chunk.js",
-    "static/media/img-3.png": "/static/media/img-3.179b6bacd5fc6bb2b880.png",
-    "static/media/img2.png": "/static/media/img2.3618746547917445f7da.png",
-    "static/media/splash1.png": "/static/media/splash1.1cd297721162d57676d7.png",
+    "static/media/card_3.JPG": "/static/media/card_3.d0c0db0910c7e194b43c.JPG",
+    "static/media/cover_second.JPG": "/static/media/cover_second.fa735ff385b12e7264cb.JPG",
+    "static/media/card_2.JPG": "/static/media/card_2.f993323f3b3dc6125782.JPG",
+    "static/media/cover_intro.JPG": "/static/media/cover_intro.c2830fbe4e6d64fca5c9.JPG",
+    "static/media/Registration.pdf": "/static/media/Registration.a97ac3ae25012b406440.pdf",
+    "static/media/card_1.jpg": "/static/media/card_1.21139c237f14b97ce097.jpg",
+    "static/media/card_0.JPG": "/static/media/card_0.103099ad32ecb9c80670.JPG",
+    "static/media/mission.JPG": "/static/media/mission.6d1547a72f4f693ba6aa.JPG",
+    "static/media/Calendar.pdf": "/static/media/Calendar.4dc54b802e2e011d3d33.pdf",
+    "static/media/mandatory_disclosure.pdf": "/static/media/mandatory_disclosure.7d33ec61d2d382fec132.pdf",
     "static/media/cbselogo.png": "/static/media/cbselogo.179e8c083e8c93e29315.png",
     "static/media/school.png": "/static/media/school.6d0fdf4043ed0a063c5b.png",
     "static/media/book.png": "/static/media/book.85c7a172ed3f0c7b64d3.png",
     "index.html": "/index.html",
-    "main.6b1d7c35.css.map": "/static/css/main.6b1d7c35.css.map",
-    "main.50f07fa1.js.map": "/static/js/main.50f07fa1.js.map",
+    "main.41f49421.css.map": "/static/css/main.41f49421.css.map",
+    "main.e203f3c3.js.map": "/static/js/main.e203f3c3.js.map",
     "787.069f4e22.chunk.js.map": "/static/js/787.069f4e22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b1d7c35.css",
-    "static/js/main.50f07fa1.js"
+    "static/css/main.41f49421.css",
+    "static/js/main.e203f3c3.js"
   ]
 }
