@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7554d6e0.css",
-    "main.js": "/static/js/main.96fc4e71.js",
+    "main.js": "/static/js/main.f50f7e92.js",
     "static/js/787.069f4e22.chunk.js": "/static/js/787.069f4e22.chunk.js",
     "static/media/card_3.JPG": "/static/media/card_3.d0c0db0910c7e194b43c.JPG",
     "static/media/cover_second.JPG": "/static/media/cover_second.fa735ff385b12e7264cb.JPG",
@@ -10,26 +10,36 @@
     "static/media/card_1.jpg": "/static/media/card_1.21139c237f14b97ce097.jpg",
     "static/media/card_0.JPG": "/static/media/card_0.103099ad32ecb9c80670.JPG",
     "static/media/mission.JPG": "/static/media/mission.6d1547a72f4f693ba6aa.JPG",
+    "static/media/11.png": "/static/media/11.bd75de2030b217714980.png",
     "static/media/Calendar.pdf": "/static/media/Calendar.4dc54b802e2e011d3d33.pdf",
     "static/media/mandatory_disclosure.pdf": "/static/media/mandatory_disclosure.7d33ec61d2d382fec132.pdf",
-    "static/media/panchayat.png": "/static/media/panchayat.dc0cf4a20c9043d80a38.png",
-    "static/media/maneybong.png": "/static/media/maneybong.99bec13c7a3abcc746d2.png",
+    "static/media/12.png": "/static/media/12.3edbfef22c77ebc0ea36.png",
+    "static/media/4.png": "/static/media/4.6ecc94fbb9de12fb351c.png",
+    "static/media/8.png": "/static/media/8.82e267740756449c2e31.png",
+    "static/media/7.png": "/static/media/7.25079d6c3f946d8b0776.png",
+    "static/media/3.png": "/static/media/3.654847eb06ac510b788c.png",
+    "static/media/9.png": "/static/media/9.558a90fb1533ac214873.png",
+    "static/media/2.png": "/static/media/2.eb7277cd27124547d245.png",
+    "static/media/10.png": "/static/media/10.e30268b6601fd45784e5.png",
+    "static/media/13.png": "/static/media/13.7bd3696791fcf1539e4e.png",
+    "static/media/1.png": "/static/media/1.1bf6148b7a65c1e42a81.png",
+    "static/media/5.png": "/static/media/5.281136fa909b7fcf4774.png",
     "static/media/school_logo.jpg": "/static/media/school_logo.08df5ab1b06126f98c10.jpg",
     "static/media/renewal.png": "/static/media/renewal.172ec0dda801c68193ed.png",
+    "static/media/6.png": "/static/media/6.34490ec92555829d03cb.png",
     "static/media/CBSE_Affiliation.png": "/static/media/CBSE_Affiliation.ef10cc24415eaf12f04c.png",
-    "static/media/bdo.png": "/static/media/bdo.8ecf1ea7e8c24166e6f0.png",
     "static/media/deed_of_trust.png": "/static/media/deed_of_trust.670cdfb39d0483947a94.png",
-    "static/media/registration_deed.png": "/static/media/registration_deed.26d207a9e1a0471b3fb1.png",
+    "static/media/14.png": "/static/media/14.6a92792a977cc5cc9681.png",
     "static/media/cbselogo.png": "/static/media/cbselogo.179e8c083e8c93e29315.png",
     "static/media/school.png": "/static/media/school.6d0fdf4043ed0a063c5b.png",
     "static/media/book.png": "/static/media/book.85c7a172ed3f0c7b64d3.png",
     "index.html": "/index.html",
     "main.7554d6e0.css.map": "/static/css/main.7554d6e0.css.map",
-    "main.96fc4e71.js.map": "/static/js/main.96fc4e71.js.map",
+    "main.f50f7e92.js.map": "/static/js/main.f50f7e92.js.map",
     "787.069f4e22.chunk.js.map": "/static/js/787.069f4e22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7554d6e0.css",
-    "static/js/main.96fc4e71.js"
+    "static/js/main.f50f7e92.js"
   ]
 }
